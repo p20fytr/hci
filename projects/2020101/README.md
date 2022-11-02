@@ -1,14 +1,16 @@
-# Επικοινωνία Ανθρώπου-Υπολογιστή
+### Ονοματεπώνυμο: Φτριάδη Ευθυμία
+### Αριθμό μητρώου: Π2020101
+### Η ομάδα μου: [Cat-a-strophe](https://github.com/Cat-a-strophe)
 
-Οι διαθέσιμες εργασίες είναι αυτές που έχουν τον κωδικό HCI. Για όσους χρωστάνε το μάθημα (επι πτυχίω, επαναληπτική εξεταστική) δείτε το ιστορικό αυτού του αρχείου κατά την έναρξη του εξαμήνου.
+# Επικοινωνία Ανθρώπου-Υπολογιστή
 
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
-| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
+| 1 |  [Εισαγωγή](https://github.com/p20fytr/hci/tree/2020101/projects/2020101) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/956) | |
+| 2 | Άσκηση γραμμής εντολών (linux install)|[Ανάρτηση asciinema στο Discussions και εγκατάσταση των Arch Linux](https://github.com/courses-ionio/help/discussions/1132) | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Ανάρτηση των προσθηκών στα repositories _gallery και images καθώς και δημιουργία netlify](https://github.com/courses-ionio/help/discussions/1278)| |
+| 4 | Άσκηση γραμμής εντολών| | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -17,3 +19,4 @@
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
+
