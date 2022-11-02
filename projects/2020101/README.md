@@ -7,9 +7,9 @@
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Εισαγωγή](https://github.com/p20fytr/hci/tree/2020101/projects/2020101) | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/956) | |
-| 2 | Άσκηση γραμμής εντολών (linux install)|[Ανάρτηση asciinema στο Discussions και εγκατάσταση των Arch Linux](https://github.com/courses-ionio/help/discussions/1132) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 |[Ανάρτηση των προσθηκών στα repositories _gallery και images καθώς και δημιουργία netlify](https://github.com/courses-ionio/help/discussions/1278)| |
+| 1 |  [Εισαγωγή](https://github.com/p20fytr/hci/tree/2020101/projects/2020101) | [Link](https://github.com/courses-ionio/help/discussions/956) | |
+| 2 | Άσκηση γραμμής εντολών (linux install)|[Link](https://github.com/courses-ionio/help/discussions/1132) | |
+| 3 | Συμμετοχικό περιεχόμενο A1 |[Link](https://github.com/courses-ionio/help/discussions/1278)| |
 | 4 | Άσκηση γραμμής εντολών| | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
@@ -23,4 +23,25 @@
 # Παραδοτέο 1 - Eισαγωγή
 <br>
 Στόχος μου για το τρέχον εξάμηνο στο μάθημα "Επικοινωνία ανθρώπου υπολογιστή", είναι η βαθύτερη κατανόηση της έννοιας του μαθήματος , αλλά και το να καταφέρω να ανταπεξέλθω σε όλες τις παραδοτέες εργασίες των επόμενων εβδομάδων. Ταυτόχρονα στοχεύω στην εξοικείωση μου με το GitHub , καθώς είναι πλατφόρμα ειδικά σχεδιασμένη για προγραμματιστές. Παράλληλα ελπίζω στη γνώση εγκατάστασης νέων λογισμικών και στη καλή πρώτη επαφή μου με τα arch Linux . Πολύ σημαντικό είναι να μάθω να εργάζομαι σε ένα κλίμα επικοινωνίας και συνεργασίας με τα υπόλοιπα μέλη της ομάδας , έτσι ώστε να αναπτύξουμε και να σχεδιάσουμε νέα πετυχημένα project. .
+
+# Παραδοτέο 2 - Arch Linux installation 
+<br>
+Το δεύτερο παραδοτέο αφορά την εγκαταστάση των Arch Linux. Αυτό προς το παρόν έχει επιτευχθεί μέσω Virtual Machine .
+
+
+# Παραδοτέο 3 - Συμμετοχικό Περιεχόμεο Α1
+<br>
+
+<p>
+
+
+![alcatel-one-touch-fire](https://github.com/p20fytr/images/blob/master/alcatel-one-touch-fire.jpg)
+![Original_Sony_Walkman_TPS-L2](https://github.com/p20fytr/images/blob/master/Original_Sony_Walkman_TPS-L2.jpg)
+  
+Το [site της ομάδας μας](https://lucky-llama-173f38.netlify.app/).
+
+Οι προσθήκες μου στο site :
+- [Alcatel One Touch](https://lucky-llama-173f38.netlify.app/gallery/alcatel-one-touch-fire/)
+- [Sony_Walkman](https://lucky-llama-173f38.netlify.app/gallery/original_sony_walkman_tps-l2/)) 
+
 
