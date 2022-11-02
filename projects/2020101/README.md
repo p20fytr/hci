@@ -31,6 +31,7 @@
 
 # Παραδοτέο 3 - Συμμετοχικό Περιεχόμεο Α1
 <br>
+Για το 3ο παραδοτέο συνεισφέραμε συνεργατικά με την ομάδας μας νέο περιεχόμενο που βρίσκεται σε αποθετήριο ιστοσελίδας με τεχνολογία jekyll και με submodules στον οργανισμό της ομάδας μας. Έγινε το φόρκ από τα σχετικά αποθετήρια προς τον οργανισμό μας και στην συνέχεια από τον οργανισμό προς τα μέλη της ομάδας.
 
 <p>
 
@@ -42,6 +43,6 @@
 
 Οι προσθήκες μου στο site :
 - [Alcatel One Touch](https://lucky-llama-173f38.netlify.app/gallery/alcatel-one-touch-fire/)
-- [Sony_Walkman](https://lucky-llama-173f38.netlify.app/gallery/original_sony_walkman_tps-l2/)) 
+- [Sony_Walkman](https://lucky-llama-173f38.netlify.app/gallery/original_sony_walkman_tps-l2/)
 
 
