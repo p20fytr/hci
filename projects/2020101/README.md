@@ -45,4 +45,22 @@
 - [Alcatel One Touch](https://lucky-llama-173f38.netlify.app/gallery/alcatel-one-touch-fire/)
 - [Sony_Walkman](https://lucky-llama-173f38.netlify.app/gallery/original_sony_walkman_tps-l2/)
 
+# Παραδοτέο 5 - Συμμετοχικό περιεχόμενο A2
+<br>
+Για το 5ο παραδοτέο προστέθηκαν οι 2 νέες εικόνες που είχα επιλέξει στο Α1 παραδοτέο σε ένα σετ διαφανειών και σε ένα χρονολόγιο.
+
+Το κινητό Alcatel One Touch και η συσκευή Walkman προστέθηκαν σε διαφάνεια που έχει δημιουργήσει η ομάδα μου [Φορητές Συσκευές].
+
+### slides :
+#### [Φορητές Συσκευές](https://lucky-llama-173f38.netlify.app/slides/portable-devices/)
+
+Η προσθήκη του κινητού Alcatel One Touch μπήκε ομοίως σε χρονολόγιο που έχει δημιουργήσει η ομάδα μου [Κινητή Διάδραση]
+καθώς η ακουστική συσκευή Walkman τοποθετήθηκε στο ήδη υπάρχον χρονολόγιο [Ορίζοντας τον υπολογισμό].
+
+### timeline :
+#### [Κινητή Διάδραση](https://lucky-llama-173f38.netlify.app/timeline/mobile-interaction/)
+#### [Ορίζοντας τον υπολογισμό](https://lucky-llama-173f38.netlify.app/timeline/computer/)
+
+### [pull_request](https://github.com/Cat-a-strophe/site/pull/4)
+
 
