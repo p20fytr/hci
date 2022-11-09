@@ -11,7 +11,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install)|[Link](https://github.com/courses-ionio/help/discussions/1132) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Link](https://github.com/courses-ionio/help/discussions/1278)| |
 | 4 | Άσκηση γραμμής εντολών| | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 |[Link](https://github.com/courses-ionio/help/discussions/1534) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
